@@ -1,3 +1,2 @@
 [build]
   command = "echo root config"
-  publish = "something-else"
